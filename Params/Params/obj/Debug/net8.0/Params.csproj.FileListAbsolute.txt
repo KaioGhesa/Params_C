@@ -1,0 +1,14 @@
+C:\Projeto C#\Params\Params\bin\Debug\net8.0\Params.exe
+C:\Projeto C#\Params\Params\bin\Debug\net8.0\Params.deps.json
+C:\Projeto C#\Params\Params\bin\Debug\net8.0\Params.runtimeconfig.json
+C:\Projeto C#\Params\Params\bin\Debug\net8.0\Params.dll
+C:\Projeto C#\Params\Params\bin\Debug\net8.0\Params.pdb
+C:\Projeto C#\Params\Params\obj\Debug\net8.0\Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\Params\Params\obj\Debug\net8.0\Params.AssemblyInfoInputs.cache
+C:\Projeto C#\Params\Params\obj\Debug\net8.0\Params.AssemblyInfo.cs
+C:\Projeto C#\Params\Params\obj\Debug\net8.0\Params.csproj.CoreCompileInputs.cache
+C:\Projeto C#\Params\Params\obj\Debug\net8.0\Params.dll
+C:\Projeto C#\Params\Params\obj\Debug\net8.0\refint\Params.dll
+C:\Projeto C#\Params\Params\obj\Debug\net8.0\Params.pdb
+C:\Projeto C#\Params\Params\obj\Debug\net8.0\Params.genruntimeconfig.cache
+C:\Projeto C#\Params\Params\obj\Debug\net8.0\ref\Params.dll
